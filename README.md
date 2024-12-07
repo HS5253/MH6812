@@ -80,7 +80,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1v9VREFng3pQzBbeSmi4ii8sHeBymBTXe/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1wr0EuzvJeK9F36_sp6d2GqIe_8BHFx4u/view?usp=sharing)
 
 ### Lecture Content
 
@@ -106,10 +106,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Machine Learning Basics
 
-[Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/15bJ9Q0bFGO-0lKzmFXJEVYRbwUsgKrz_/view?usp=sharing)
 
 ### Lecture Content
 
@@ -132,7 +132,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 3: Neural Networks & Optimization Basics
 
-[Lecture Slide](https://drive.google.com/file/d/18E-zKbUTW0GygYPNzfwmR-TtqMX8ehnI/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1n8-gDgikkx-yG2dvDxRmmqvIjuPVLB9W/view?usp=sharing)
 
 ### Lecture Content
 
@@ -157,9 +157,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 4: Word Vectors 
 
-[Lecture Slide](https://drive.google.com/file/d/1vBhYQ3ZDGqfu8RxErJuh18RALSXpiSO0/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1mNeA6aVCJF7K_UIc46ZgFaD7DQ2Vw96H/view?usp=sharing)
 
-[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link)
+<!--
+[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) -->
 
 ### Lecture Content
 
@@ -191,7 +192,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 5: Window-based Approach and Convolutional Nets
 
-[Lecture Slide](https://drive.google.com/file/d/1qOJt_i7hrjdh19_kKUkgFbjODGTolcz9/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1_J7Qj5xr32aRGYEd3gTaIlSAjsv2QhGT/view?usp=sharing)
 
 ### Lecture Content
 
@@ -213,7 +214,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-
+<!--
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1LYFH79pH8y0tLjat2b1YX4NukH9NFjLU/view?usp=share_link)
